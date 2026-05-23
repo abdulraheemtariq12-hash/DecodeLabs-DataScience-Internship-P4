@@ -14,6 +14,7 @@ Place your dataset as `data/dataset.csv`. The notebook includes flexible code to
 - Visualization: matplotlib, seaborn
 - Machine learning: scikit-learn
 - Notebook: Jupyter
+- Notebook location: `notebooks/main.ipynb`
 
 ## Project Workflow
 1. Data loading & understanding
@@ -22,6 +23,7 @@ Place your dataset as `data/dataset.csv`. The notebook includes flexible code to
 4. Feature engineering & visualization
 5. Model training and evaluation
 6. Results and improvement suggestions
+7. Saved visuals output to `visuals/`
 
 ## Machine Learning Techniques
 - Train/test split
@@ -30,13 +32,15 @@ Place your dataset as `data/dataset.csv`. The notebook includes flexible code to
 - Evaluation: accuracy, confusion matrix, classification report
 
 ## Results
-The notebook reports model accuracy, confusion matrix, and classification report. Visualizations are saved in the `visuals/` folder.
+The notebook (`notebooks/main.ipynb`) reports model accuracy, confusion matrix, and classification report.
+Visualizations are saved in the `visuals/` folder for easy review and presentation.
 
 ## Future Improvements
 - Hyperparameter tuning (GridSearchCV)
 - Cross-validation
 - More advanced feature engineering
 - Experiment with other models (XGBoost, LightGBM)
+- Report creation and stakeholder-ready summary generation
 
 ## Author
 - Your Name
