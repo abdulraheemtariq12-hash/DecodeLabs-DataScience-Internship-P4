@@ -4,11 +4,10 @@
 Customer Churn Analysis and Prediction (Example)
 
 ## Objective
-Analyze the dataset, perform exploratory data analysis, preprocess data, build a predictive model, and present findings.
-
+The objective of this project is to analyze customer data, perform exploratory data analysis (EDA), preprocess the dataset, build a predictive machine learning model, and derive actionable insights related to customer churn behavior
 ## Dataset
-Place your dataset as `data/dataset.csv`. The notebook includes flexible code to detect and load the dataset.
-
+Dataset should be placed in: data/dataset.csv
+The notebook is designed with flexible loading logic to automatically detect and load the dataset.
 ## Technologies Used
 - Python (pandas, numpy)
 - Visualization: matplotlib, seaborn
