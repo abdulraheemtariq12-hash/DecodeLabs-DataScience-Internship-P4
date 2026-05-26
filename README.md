@@ -43,5 +43,5 @@ Visualizations are saved in the `visuals/` folder for easy review and presentati
 - Report creation and stakeholder-ready summary generation
 
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Name: Abdul Raheem
+- Contact: abdulraheemtariq12@gmail.com
