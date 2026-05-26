@@ -1,7 +1,7 @@
 # Week 4 — Data Science Internship Project
 
 ## Project Title
-Customer Churn Analysis and Prediction (Example)
+Customer Churn Analysis and Prediction
 
 ## Objective
 The objective of this project is to analyze customer data, perform exploratory data analysis (EDA), preprocess the dataset, build a predictive machine learning model, and derive actionable insights related to customer churn behavior
