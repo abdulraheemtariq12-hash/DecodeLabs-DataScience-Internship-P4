@@ -41,6 +41,11 @@ Visualizations are saved in the `visuals/` folder for easy review and presentati
 - Experiment with other models (XGBoost, LightGBM)
 - Report creation and stakeholder-ready summary generation
 
-## Author
-- Name: Abdul Raheem
-- Contact: abdulraheemtariq12@gmail.com
+##Author
+**Name**: Abdul Raheem Tariq
+**GitHub**: [abdulraheemtariq12-hash](https://github.com/abdulraheemtariq12-hash)
+**Project Repository**: [DecodeLabs-DataScience-Internship-P3](https://github.com/abdulraheemtariq12-hash/DecodeLabs-DataScience-Internship-P3)
+## 📄 License
+This project is for educational purposes as part of a data science internship program.
+
+--- **⭐ If you found this analysis helpful, please give it a star on GitHub!**
